@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Changa+One&display=swap');
+
+#fuenteMarca{
+font-family: "Changa One", sans-serif;
+
+}
+
+#ceroPesos{
+    width: 34px;
+    height: 38px;
+    background: #007BFF;
+    color: white;
+    font-size: 21px;
+    text-align: center;
+    border-radius: 5px;
+
+}
+
+#tablaPrecios{
+
+    
+}
